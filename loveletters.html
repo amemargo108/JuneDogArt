@@ -21,6 +21,14 @@
     <!-- MAIN CSS -->
     <link rel="stylesheet" href="css/style.css">
 
+
+<!-- Other dependencies -->
+<script src="js/owl.carousel.min.js"></script>
+
+<!-- Main JS file that includes siteCarousel() -->
+<script src="js/main.js"></script>
+
+
   </head>
 
   <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
@@ -131,13 +139,32 @@
 
     
 
-    <div class="site-section bg-white">
-      
-      <div class="container">
-        <div class="row mb-5 text-center">
+<div class="site-section bg-white">
+  <div class="container">
+    <div class="row mb-5 text-center">
+      <div class="col-12">
+        <div class="owl-carousel slide-one-item">
+          <div class="item">
+            <img src="images/forgottenDreams.jpg" alt="Forgotten Dreams">
+            <div class="caption">Forgotten Dreams</div>
+          </div>
+          <div class="item">
+            <img src="images/standardKnittingMill.png" alt="Standard Knitting Mill">
+            <div class="caption">Standard Knitting Mill</div>
+          </div>
+          <div class="item">
+            <img src="images/stillLivingWithYourGhost.jpg" alt="Still Living With Your Ghost">
+            <div class="caption">Still Living With Your Ghost</div>
+          </div>
+          <div class="item">
+            <img src="images/toInsistOnLiving.jpg" alt="To Insist On Living">
+            <div class="caption">To Insist On Living</div>
+          </div>
         </div>
       </div>
     </div>
+  </div>
+</div>
     
     
     <div class="footer site-section bg-light">
@@ -207,10 +234,14 @@
 
     </div>
 
-    <script src="js/jquery-3.3.1.min.js"></script>
+
+    <!-- jQuery FIRST -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <!-- Core dependencies -->
+    <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery-migrate-3.0.0.js"></script>
     <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
     <script src="js/owl.carousel.min.js"></script>
     <script src="js/jquery.sticky.js"></script>
     <script src="js/jquery.waypoints.min.js"></script>
@@ -221,22 +252,22 @@
     <script src="js/bootstrap-datepicker.min.js"></script>
     <script src="js/isotope.pkgd.min.js"></script>
     <script src="js/aos.js"></script>
-  
 
+<!-- Typed.js -->
     <script src="js/typed.js"></script>
-            <script>
-            var typed = new Typed('.typed-words', {
-            strings: ["Business"," Startups"," Organization", " Company"],
-            typeSpeed: 80,
-            backSpeed: 80,
-            backDelay: 4000,
-            startDelay: 1000,
-            loop: true,
-            showCursor: true
-            });
-            </script>
+    <script>
+        var typed = new Typed('.typed-words', {
+        strings: ["Business"," Startups"," Organization", " Company"],
+        typeSpeed: 80,
+        backSpeed: 80,
+        backDelay: 4000,
+        startDelay: 1000,
+        loop: true,
+        showCursor: true
+        });
+    </script>
 
-
+<!-- MAIN JS (must come last) -->
     <script src="js/main.js"></script>
 
   </body>

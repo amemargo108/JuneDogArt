@@ -166,7 +166,7 @@ jQuery(document).ready(function($) {
 	    loop: true,
 			stagePadding: 0,
 	    margin: 0,
-	    smartSpeed: 1500,
+	    smartSpeed: 1700,
 	    autoplay: true,
 	    pauseOnHover: false,
 	    dots: true,
