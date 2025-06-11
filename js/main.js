@@ -350,3 +350,40 @@ jQuery(document).ready(function($) {
   siteIstotope();
 
 });
+
+
+var captions = [
+  "Forgotten Dreams",
+  "Standard Knitting Mill",
+  "Still Living With Your Ghost",
+  "To Insist On Living"
+];
+
+var $carousel = $('.slide-one-item');
+var $caption = $('.carousel-caption-wrap .caption');
+
+$carousel.owlCarousel({
+  items: 1,
+  loop: true,
+  nav: false,
+  dots: false,
+  autoplay: true,
+  autoplayTimeout: 5000,
+  onChanged: function(event) {
+    const index = event.item.index - event.relatedTarget._clones.length / 2;
+    const realIndex = (index + captions.length) % captions.length;
+    $caption.text(captions[realIndex]);
+  }
+});
+
+// Set initial caption
+$caption.text(captions[0]);
+
+// Custom nav
+$('.custom-next').click(function () {
+  $carousel.trigger('next.owl.carousel');
+});
+
+$('.custom-prev').click(function () {
+  $carousel.trigger('prev.owl.carousel');
+});

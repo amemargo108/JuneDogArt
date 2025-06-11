@@ -1072,3 +1072,72 @@ h1, h2, h3, h4, h5,
   .post-meta a {
     color: #fff;
     border-bottom: 1px solid rgba(255, 255, 255, 0.5); }
+
+#gallerySlide {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.owl-carousel .item img {
+  max-height: 500px;
+  object-fit: contain;
+}
+
+.art-statement {
+  margin-top: -50px;
+}
+
+.owl-nav {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+
+.owl-nav button {
+  background: rgba(255,255,255,0.7);
+  border: none;
+  padding: 10px 15px;
+  font-size: 24px;
+  pointer-events: all;
+  cursor: pointer;
+  border-radius: 50%;
+}
+
+.carousel-caption-wrap {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 10px;
+  flex-wrap: nowrap;
+  max-width: 100%;
+}
+
+.carousel-caption-wrap .caption {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: black;
+  white-space: nowrap;
+}
+
+
+.custom-prev, .custom-next {
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  color: black;
+  cursor: pointer;
+  padding: 5px 15px;
+  flex-shrink: 0;
+}
+
+.col-md-7.d-flex {
+  align-items: center;
+}

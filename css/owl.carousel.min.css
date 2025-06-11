@@ -10,7 +10,8 @@
     
 .owl-carousel {
     display:none;
-    width:100%;z-index:1
+    width:70%;
+    z-index:1
 }
 
 .owl-carousel .owl-stage {
@@ -48,13 +49,12 @@
     float:left;
     -webkit-backface-visibility:hidden;
     -webkit-touch-callout:none
+
 }
 
 .owl-carousel .owl-item img {
     display:block;
-    width:80%;
-    margin-left: auto;
-    margin-right: auto;
+    width:100%
 }
 
 .owl-carousel .owl-dots.disabled,.owl-carousel .owl-nav.disabled {
@@ -187,4 +187,6 @@
     height:100%;
     width:100%}
 
-    
+    #gallerySlide {
+        float: right;
+    }
