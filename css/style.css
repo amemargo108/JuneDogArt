@@ -1141,3 +1141,8 @@ h1, h2, h3, h4, h5,
 .col-md-7.d-flex {
   align-items: center;
 }
+
+.margin-edits {
+  margin-left: 3px !important;
+  margin-right: 3px !important;
+}
