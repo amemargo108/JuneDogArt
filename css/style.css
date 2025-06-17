@@ -1146,3 +1146,7 @@ h1, h2, h3, h4, h5,
   margin-left: 3px !important;
   margin-right: 3px !important;
 }
+
+.main-display-section {
+  margin-top: -140px;
+}
