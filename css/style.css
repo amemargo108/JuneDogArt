@@ -302,7 +302,7 @@ h1, h2, h3, h4, h5,
   .footer h2, .footer h3, .footer h4, .footer h5 {
     color: #000; }
   .footer a {
-    color: rgba(0, 0, 0, 0.5); }
+    color: rgb(250, 250, 250, 0.5); }
     .footer a:hover {
       color: black; }
   .footer ul li {
@@ -836,7 +836,7 @@ h1, h2, h3, h4, h5,
     left: 0;
     content: "";
     position: absolute;
-    height: 70%;
+    height: 100%;
     width: 100%; }
 
 .portfolio-item {
@@ -920,7 +920,7 @@ h1, h2, h3, h4, h5,
   text-transform: uppercase;
   font-weight: bold; }
   .site-logo-footer a {
-    color: #3b4eda; }
+    color: white; }
 
 .social_29128 a {
   display: inline-block;
@@ -1148,5 +1148,12 @@ h1, h2, h3, h4, h5,
 }
 
 .main-display-section {
-  margin-top: -140px;
+  margin-top: -160px;
+}
+
+.main-quote {
+  font-size:1.25rem;
+  font-weight:300;
+  font-style: italic;
+  text-align: center;
 }
