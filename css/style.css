@@ -777,7 +777,7 @@ h1, h2, h3, h4, h5,
       .site-section-cover,
       .site-section-cover .container > .row {
         height: calc(70vh - 196px);
-        min-height: 600px; } }
+        min-height: 500px; } }
   .site-section-cover.overlay {
     position: relative; }
     .site-section-cover.overlay:before {
@@ -804,7 +804,7 @@ h1, h2, h3, h4, h5,
     font-weight: 900 !important; }
     @media (max-width: 991.98px) {
       .site-section-cover h1 {
-        font-size: 2rem; } }
+        font-size: 3rem; } }
   .site-section-cover p {
     font-size: 18px;
     color: rgba(255, 255, 255, 0.6); }
@@ -927,7 +927,7 @@ h1, h2, h3, h4, h5,
   width: 50px;
   height: 50px;
   border-radius: 50%;
-  background: rgba(59, 78, 218, 0.2);
+  background: rgba(76, 89, 46, 0.2);
   position: relative; }
   .social_29128 a span {
     position: absolute;
@@ -1147,10 +1147,6 @@ h1, h2, h3, h4, h5,
   margin-right: 3px !important;
 }
 
-.main-display-section {
-  margin-top: -140px;
-}
-
 .main-quote {
   font-size:1.25rem;
   font-weight:300;
@@ -1175,4 +1171,12 @@ h1, h2, h3, h4, h5,
 .portfolio-wrapper {
   position: relative;
   display: inline-block;
+}
+
+.ames-dark-green {
+  color: #4C592E;
+}
+
+.ames-light-green {
+  color: #728C4A;
 }
