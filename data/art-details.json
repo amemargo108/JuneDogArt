@@ -19,5 +19,44 @@
     "mediumsUsed": "Acrylic and oil pastel on canvas.",
     "yearCreated": "2023",
     "artDimensions": "22\"x28\""
-    }
+    },
+  "goodnight-moon": {
+    "title": "Goodnight Moon",
+    "image": "images/goodnightMoon.jpg",
+    "mediumsUsed": "Acrylic and marker on canvas.",
+    "yearCreated": "2024",
+    "artDimensions": "24\"x30\""
+  },
+  "incinerate": {
+    "title": "Incinerate",
+    "image": "images/incinerate.jpg",
+    "mediumsUsed": "Acrylic and marker on wood.",
+    "yearCreated": "2024",
+    "artDimensions": "12\"x12\""
+  },
+  "end-of-the-world": {
+    "title": "At the End Of the World, There's Nowhere Left To Go",
+    "image": "images/atTheEndOfTheWorld.jpg",
+    "mediumsUsed": "Acrylic, ink, marker, colored pencil, oil pastel, and vimyl on wood.",
+    "yearCreated": "2024",
+    "artDimensions": "18\"x18\""
+  },
+    "heart-empty-room": {
+    "title": "Your Heart Is An Empty Room",
+    "image": "images/yourHeartIsAnEmptyRoom.jpg",
+    "mediumsUsed": "Acrylic, gouache, and colored pencil on canvas.",
+    "yearCreated": "2023",
+    "artDimensions": "16\"x20\""
+  },
+    "not-from-around-here": {
+    "title": "Not From Around Here",
+    "image": "images/notFromAroundHere.jpg",
+    "mediumsUsed": "Acrylic and marker on canvas.",
+    "yearCreated": "2025",
+    "artDimensions": "24\"x30\""
+  }
+
+
+
+
   }
