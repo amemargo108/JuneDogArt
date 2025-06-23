@@ -1,0 +1,23 @@
+{
+  "unwanted-flowers": {
+    "title": "Unwanted Flowers",
+    "image": "images/AmeHouston_UnwantedFlowers1.jpeg",
+    "mediumsUsed": "Acrylic, gouache, marker, and spray paint on canvas.",
+    "yearCreated": "2023",
+    "artDimensions": "30\"x40\""
+    },
+  "standard-knitting": {
+    "title": "Standard Knitting Mill",
+    "image": "images/standardKnittingMill2023.jpg",
+    "mediumsUsed": "Acrylic and marker on canvas.",
+    "yearCreated": "2023",
+    "artDimensions": "24\"x24\""
+    },
+  "your-ghost": {
+    "title": "Still Living With Your Ghost",
+    "image": "images/stillLivingWithYourGhost.jpg",
+    "mediumsUsed": "Acrylic and oil pastel on canvas.",
+    "yearCreated": "2023",
+    "artDimensions": "22\"x28\""
+    }
+  }
