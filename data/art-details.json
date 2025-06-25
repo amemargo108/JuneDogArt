@@ -1,7 +1,7 @@
 {
   "unwanted-flowers": {
     "title": "Unwanted Flowers",
-    "image": "images/AmeHouston_UnwantedFlowers1.jpeg",
+    "image": "images/unwantedFlowers2023",
     "mediumsUsed": "Acrylic, gouache, marker, and spray paint on canvas.",
     "yearCreated": "2023",
     "artDimensions": "30\"x40\""
@@ -54,9 +54,126 @@
     "mediumsUsed": "Acrylic and marker on canvas.",
     "yearCreated": "2025",
     "artDimensions": "24\"x30\""
-  }
+  },
+    "a-better-place": {
+    "title": "A Better Place #0",
+    "image": "images/aBetterPlace2024.jpg",
+    "mediumsUsed": "Acrylic on canvas.",
+    "yearCreated": "2024",
+    "artDimensions": "20\" diameter"
+  },
+    "alls-well": {
+    "title": "All's Well That Ends",
+    "image": "images/AllsWell2025.jpg",
+    "mediumsUsed": "Acrylic, spray paint, gouache, marker, tissue paper, foam, and paper on canvas.",
+    "yearCreated": "2025",
+    "artDimensions": "16\"x20\""
+  },
+    "forgotten-dreams": {
+    "title": "Forgotten Dreams",
+    "image": "images/forgottenDreams2025.jpg",
+    "mediumsUsed": "Acrylic, ink, and marker on canvas.",
+    "yearCreated": "2024",
+    "artDimensions": "20\"x20\""
+  },
+    "bad-blood": {
+    "title": "Bad Blood",
+    "image": "images/badBlood2023.jpg",
+    "mediumsUsed": "Acrylic, marker, and oil pastel on canvas.",
+    "yearCreated": "2023",
+    "artDimensions": "20\"x30\""
+  },
+    "born-dead": {
+    "title": "Born Dead",
+    "image": "images/bornDead2024.jpg",
+    "mediumsUsed": "Acrylic on wood.",
+    "yearCreated": "2024",
+    "artDimensions": "18\"x18\""
+  },
+    "callicore-butterfly": {
+    "title": "Callicore Hesperis",
+    "image": "images/callicoreHesperis2024.jpg",
+    "mediumsUsed": "Acrylic and marker on wood.",
+    "yearCreated": "2024",
+    "artDimensions": "18\"x18\""
+  },
+    "direwolf-epoxy": {
+    "title": "Direwolf and Nightshade",
+    "image": "images/Direwolf2023.jpg",
+    "mediumsUsed": "Block print, epoxy, and plants in wood.",
+    "yearCreated": "2023",
+    "artDimensions": "12\"x12\""
+  },
+    "dont-touch": {
+    "title": "Don't Touch Me",
+    "image": "images/doNotTouchMe2022.jpg",
+    "mediumsUsed": "Collage and marker on canvas.",
+    "yearCreated": "2022",
+    "artDimensions": "10\"x10\""
+  },
+    "emotional-availability": {
+    "title": "Emotional Availability",
+    "image": "images/emotionalAvailability2023.jpg",
+    "mediumsUsed": "Acrylic and marker on canvas.",
+    "yearCreated": "2023",
+    "artDimensions": "20\"x20\""
+  },
+    "epiphoraMarginimacula": {
+    "title": "Epiphora Marginimacula",
+    "image": "images/epiphoraMarginimacula2022.jpg",
+    "mediumsUsed": "Acrylic on canvas.",
+    "yearCreated": "2022",
+    "artDimensions": "18\"x24\""
+  },
+    "flawed-creature": {
+    "title": "Flawed Creature",
+    "image": "images/flawedCreature2025.jpg",
+    "mediumsUsed": "Acrylic on canvas.",
+    "yearCreated": "2025",
+    "artDimensions": "30\"x30\""
+  },
+    "grow-your-own-home": {
+    "title": "Grow Your Own Home",
+    "image": "images/growYourOwnHome2022.jpg",
+    "mediumsUsed": "Acrylic on canvas.",
+    "yearCreated": "2025",
+    "artDimensions": "18\"x24\""
+  },
+    "inner-child-work": {
+    "title": "Inner Child Work",
+    "image": "images/innerChildWork2023.jpg",
+    "mediumsUsed": "Acrylic on canvas.",
+    "yearCreated": "2023",
+    "artDimensions": "20\"x20\""
+  },
+    "hurts-underground": {
+    "title": "It Still Hurts Underground",
+    "image": "images/itStillHurtsUnderground2023.jpg",
+    "mediumsUsed": "Acrylic , gouache, fabric dye, and marker on canvas.",
+    "yearCreated": "2023",
+    "artDimensions": "24\"x30\""
+  },
+    "jamaican-monarch": {
+    "title": "Jamaican Monarch",
+    "image": "images/jamaicanMonarch2024.webp",
+    "mediumsUsed": "Acrylic and marker on wood.",
+    "yearCreated": "2024",
+    "artDimensions": "12\"x12\""
+  },
+    "last-farewell": {
+    "title": "Last Farewell",
+    "image": "images/lastFarewell2023.jpg",
+    "mediumsUsed": "Acrylic and marker on wood.",
+    "yearCreated": "2023",
+    "artDimensions": "18\"x18\""
+  },
+    "moon-is-waning": {
+    "title": "I Only Miss You When the Moon Is Waning (Unfortunately It's Always Waxing)",
+    "image": "images/iOnlyMissYou2024jpg",
+    "mediumsUsed": "Acrylic, colored pencil, and marker on wood.",
+    "yearCreated": "2024",
+    "artDimensions": "12\"x16\""
+  },
 
 
-
-
-  }
+}
