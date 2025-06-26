@@ -20,6 +20,7 @@ document.addEventListener("DOMContentLoaded", () => {
       document.getElementById("mediumsUsed").textContent = art.mediumsUsed || "N/A";
       document.getElementById("yearCreated").textContent = art.yearCreated || "N/A";
       document.getElementById("artDimensions").textContent = art.artDimensions || "N/A";
+      document.getElementById("titleBody").textContent = art.title || "N/A";
 
       // Update title on top section
       const titleEl = document.getElementById("title");
