@@ -356,7 +356,11 @@ var captions = [
   "Forgotten Dreams",
   "Standard Knitting Mill",
   "Still Living With Your Ghost",
-  "To Insist On Living"
+  "To Insist On Living",
+  "Unwanted Flowers",
+  "Flawed Creature",
+  "Not From Around Here",
+  "All's Well That Ends"
 ];
 
 var $carousel = $('.slide-one-item');

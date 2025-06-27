@@ -1188,3 +1188,7 @@ h1, h2, h3, h4, h5,
 .portfolio-button {
   margin-top: 7vh;
 }
+
+.loveletter-statement {
+  width: 70vw !important;
+}
