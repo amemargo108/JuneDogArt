@@ -1106,7 +1106,7 @@ h1, h2, h3, h4, h5,
   padding: 10px 15px;
   font-size: 24px;
   pointer-events: all;
-  cursor: pointer;
+  cursor: pointer; 
   border-radius: 50%;
 }
 
@@ -1191,4 +1191,8 @@ h1, h2, h3, h4, h5,
 
 .loveletter-statement {
   width: 70vw !important;
+}
+
+.photography-statement {
+  margin-bottom: 7vh;
 }
